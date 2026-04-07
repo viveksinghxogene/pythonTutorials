@@ -1,0 +1,5 @@
+tpl=(45,90.89,45,0b10101,"hello")
+print(type(tpl))
+print(tpl.count(45))
+print(tpl*4)
+print(tpl.index(90.89))
